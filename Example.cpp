@@ -25,6 +25,8 @@ int main() {
 	
 	cout << "UART" << endl;
 	
+	cout << "test" << ednl;
+	
 	
 	system ("pause");
 	return 0; 
