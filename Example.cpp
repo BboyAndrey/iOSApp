@@ -20,8 +20,7 @@ int main() {
 	cout << snack.namesweet << " " << snack.weight << " " << snack.caloriy << endl << endl;
 	cout << "Hello World" << endl;
 
-	
-	cout << endl;
+	cout << "Hi" << endl;
 	
 	system ("pause");
 	return 0; 
