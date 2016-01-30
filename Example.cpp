@@ -26,6 +26,7 @@ int main() {
 	cout << "UART" << endl;
 	
 	cout << "master" << endl;
+
 	
 	system ("pause");
 	return 0; 
