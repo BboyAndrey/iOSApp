@@ -21,6 +21,7 @@ int main() {
 	cout << "Hello World" << endl;
 
 	cout << "Hi" << endl;
+	cout << "Hi Hero" << endl << endl << endl;
 	
 	system ("pause");
 	return 0; 
